@@ -57,32 +57,32 @@ Availability: 99.9% uptime.
 
 ## USER STORY AND ACCEPTANCE CRITERIA:
 
-# Use Case 1: Real-Time Inventory Updates
+**Use Case 1: Real-Time Inventory Updates**
 
   * Automatically update stock levels when orders are placed or products are received.
   * Ensures accurate, real-time inventory data and triggers low-stock notifications.
     
-# Use Case 2: Customer Order Status Updates
+**Use Case 2: Customer Order Status Updates**
 
   * Notify customers in real time about order statuses (Processing, Shipped, Delivered).
   * Enhances customer experience with timely updates via email/SMS.
     
-# Use Case 3: Low Stock Notification
+**Use Case 3: Low Stock Notification**
 
   * Alerts inventory managers when stock falls below reorder levels.
   * Enables proactive stock replenishment to avoid stockouts.
     
-# Use Case 4: SQL-Based Sales Report
+**Use Case 4: SQL-Based Sales Report**
 
   * Generate monthly sales reports using SQL queries for actionable insights.
   * Optimized for handling large datasets with quick response times.
     
-# Use Case 5: Return and Refund Management
+**Use Case 5: Return and Refund Management**
 
   * Tracks customer returns and processes refunds efficiently.
   * Automates notifications and ensures accurate financial reporting.
     
-# Use Case 6: Real-Time Order Blocking for Out-of-Stock Products
+**Use Case 6: Real-Time Order Blocking for Out-of-Stock Products**
 
   * Prevents customers from placing orders for unavailable products.
   * Ensures accurate stock validation before confirming orders.
